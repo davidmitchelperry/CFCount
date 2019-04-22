@@ -1,0 +1,31 @@
+Solving test.cnf
+variables (all/used/free): 	346/346/0
+clauses (all/long/binary/unit): 1022/527/397/98
+
+Preprocessing .. DONE
+variables (all/used/free): 	86/86/0
+clauses (all/long/binary/unit): 251/45/206/0
+Maximum cache size:	1877 MB
+
+
+
+variables (total / active / free)	86/86/0
+clauses (removed) 			1022 (771)
+decisions 				32
+conflicts 				0
+conflict clauses (all/bin/unit) 	0/0/0
+
+failed literals found by implicit BCP 	 0
+implicit BCP miss rate 	 100%
+cache size 7MB	
+cache (stores / hits) 			33/10
+cache miss rate 0%
+ avg. variable count (stores / hits) 	28.5455/5.4
+
+
+# solutions 
+95
+# END
+
+time: 0.004055s
+

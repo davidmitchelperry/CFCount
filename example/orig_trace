@@ -1,0 +1,11 @@
+trace_start
+
+trace:main_entry
+
+trace:main_bb1
+
+trace:main_bb3
+3
+out of if
+
+trace_end
